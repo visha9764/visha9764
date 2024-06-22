@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on react,Machine learning projects
 - 📫 How to reach me: gmail=> vishalkodiganti@gmail.com, twitter: @vishal_9764 
 - 😄 Pronouns: he/him
-- 
+
 
 <!---
 visha9764/visha9764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
